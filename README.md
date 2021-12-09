@@ -17,5 +17,10 @@ I had used seaborn to represent more data regarding different models however tho
 The output i got which was a 72 acc, was the highest i got with my machine without it taking half a day to process it. 
 
 I would like to thank you for the extension. 
+
 Have a good Christmas,
+
 Eugenio
+
+PS 
+I forgot to mention, but the test-o file is in the submission, as it is too large to put in the github
