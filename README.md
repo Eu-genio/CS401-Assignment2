@@ -1,5 +1,6 @@
 # CS401-Assignment2
-Hi Barak, the explanation of the code is in the code itself (Classifiers.ipynb), if run in jupyter notebook some headings and an easy to read format exists, with visual representation of some of the data. As stated in the assignment description i have not added test-i and train-io in this github
+Hi Barak, 
+The explanation of the code is in the code itself (Classifiers.ipynb), if run in jupyter notebook some headings and an easy to read format exists, with visual representation of some of the data. As stated in the assignment description i have not added test-i and train-io in this github. In the main directory I included the Classifier code and test-o.txt with the most recent output of my model which had a 72 percent acc
 
 Imports needed: numpy, sklearn,keras,torch, seaborn and pandas.
 
@@ -14,3 +15,7 @@ I also implemented a confusion matrix of the training set. (I could have impleme
 I had used seaborn to represent more data regarding different models however those were previous versions and did not seem necessary to show. 
 
 The output i got which was a 72 acc, was the highest i got with my machine without it taking half a day to process it. 
+
+I would like to thank you for the extension. 
+Have a good Christmas,
+Eugenio
